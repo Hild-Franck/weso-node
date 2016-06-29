@@ -1,0 +1,30 @@
+{
+  "author": {
+    "email": "clement@payname.fr",
+    "name": "Clément Denis"
+  },
+  "dependencies": {
+    "geval": "^2.1.1",
+    "weso": "^1.0.0",
+    "ws": "^1.1.0"
+  },
+  "description": "Simple and light weight websocket server for node:",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "le.mikmac@gmail.com",
+      "name": "kigiri"
+    }
+  ],
+  "name": "weso-node",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2-1"
+}
